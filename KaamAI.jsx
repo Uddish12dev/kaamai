@@ -807,7 +807,7 @@ export default function KaamAI() {
                 AI OS
               </span>
             </div>
-            <div style={{ fontSize: 16, fontWeight: 800, color: C.white, marginTop: 2 }}>
+            <div style={{ fontSize: 16, fontWeight: 800, color: C.text, marginTop: 2 }}>
               {VENDOR.avatar} {VENDOR.stall}
             </div>
             <div style={{ fontSize: 11, color: C.muted }}>📍 {VENDOR.location}</div>

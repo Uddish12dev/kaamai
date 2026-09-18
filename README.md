@@ -18,7 +18,7 @@ The prototype demonstrates how AI and data-driven insights can help small busine
 
 ✨ Features
 
-📊 Dashboard
+1. 📊 Dashboard
 
 The dashboard provides an overview of the vendor’s business performance.
 
@@ -42,7 +42,7 @@ Demand predictions consider factors such as:
 
 ⸻
 
-📦 Inventory Management
+2. 📦 Inventory Management
 
 The Inventory section helps vendors monitor their available stock.
 
@@ -62,7 +62,7 @@ Paneer is below the safe-stock threshold, so the system recommends purchasing ad
 
 ⸻
 
-💰 Finance
+3. 💰 Finance
 
 The Finance section provides a simplified financial dashboard.
 
@@ -86,7 +86,7 @@ The expense breakdown categorizes spending into:
 
 ⸻
 
-🏛️ Government Schemes
+4. 🏛️ Government Schemes
 
 KaamAI highlights government schemes that may be useful for street vendors and micro-entrepreneurs.
 
@@ -105,7 +105,7 @@ Each scheme contains:
 
 ⸻
 
-🤖 Ask AI
+5. 🤖 Ask AI
 
 The Ask AI section provides a conversational business assistant.
 

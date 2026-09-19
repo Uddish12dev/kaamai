@@ -1,0 +1,450 @@
+{
+  "bills": [
+    {
+      "id": "ORD-3904",
+      "time": "06:31 pm",
+      "items": [
+        {
+          "id": "m3",
+          "name": "Fried Veg Momos",
+          "price": 70,
+          "icon": "🥟",
+          "category": "momos",
+          "unit": "plate (6 pcs)",
+          "badge": "Crispy",
+          "qty": 1,
+          "total": 70
+        },
+        {
+          "id": "d2",
+          "name": "Chilled Cold Drink",
+          "price": 30,
+          "icon": "🥤",
+          "category": "drinks",
+          "unit": "bottle 250ml",
+          "badge": "Chilled",
+          "qty": 1,
+          "total": 30
+        }
+      ],
+      "itemSummary": "Fried Veg Momos ×1, Chilled Cold Drink ×1",
+      "subtotal": 100,
+      "discountAmount": 10,
+      "discountPercent": 10,
+      "finalTotal": 90,
+      "type": "upi",
+      "customerPhone": "9104131872",
+      "cashTendered": null,
+      "changeToReturn": 0,
+      "timestamp": "2026-09-18T13:01:53.921Z"
+    },
+    {
+      "id": "ORD-5953",
+      "time": "06:18 pm",
+      "items": [
+        {
+          "id": "m2",
+          "name": "Paneer Steamed Momos",
+          "price": 80,
+          "icon": "🧀",
+          "category": "momos",
+          "unit": "plate (6 pcs)",
+          "badge": "Popular",
+          "qty": 1,
+          "total": 80
+        },
+        {
+          "id": "d2",
+          "name": "Chilled Cold Drink",
+          "price": 30,
+          "icon": "🥤",
+          "category": "drinks",
+          "unit": "bottle 250ml",
+          "badge": "Chilled",
+          "qty": 1,
+          "total": 30
+        },
+        {
+          "id": "e1",
+          "name": "Extra Spicy Chutney & Mayo",
+          "price": 10,
+          "icon": "🫙",
+          "category": "extras",
+          "unit": "double dip",
+          "badge": "Add-on",
+          "qty": 1,
+          "total": 10
+        }
+      ],
+      "itemSummary": "Paneer Steamed Momos ×1, Chilled Cold Drink ×1, Extra Spicy Chutney & Mayo ×1",
+      "subtotal": 120,
+      "discountAmount": 6,
+      "discountPercent": 5,
+      "finalTotal": 114,
+      "type": "cash",
+      "customerPhone": "9137194549",
+      "cashTendered": 500,
+      "changeToReturn": 386,
+      "timestamp": "2026-09-18T12:48:45.972Z"
+    },
+    {
+      "id": "ORD-0995",
+      "time": "11:17 am",
+      "items": [
+        {
+          "id": "m1",
+          "name": "Veg Steamed Momos",
+          "price": 60,
+          "icon": "🥟",
+          "category": "momos",
+          "unit": "plate (6 pcs)",
+          "badge": "Bestseller",
+          "qty": 1,
+          "total": 60
+        }
+      ],
+      "itemSummary": "Veg Steamed Momos ×1",
+      "subtotal": 60,
+      "discountAmount": 0,
+      "discountPercent": 0,
+      "finalTotal": 60,
+      "type": "upi",
+      "customerPhone": "",
+      "cashTendered": null,
+      "changeToReturn": 0,
+      "timestamp": "2026-09-18T05:47:01.014Z"
+    },
+    {
+      "id": "ORD-4003",
+      "time": "04:56 am",
+      "items": [
+        {
+          "id": "m1",
+          "name": "Veg Steamed Momos",
+          "price": 60,
+          "icon": "🥟",
+          "category": "momos",
+          "unit": "plate (6 pcs)",
+          "badge": "Bestseller",
+          "qty": 1,
+          "total": 60
+        },
+        {
+          "id": "m2",
+          "name": "Paneer Steamed Momos",
+          "price": 80,
+          "icon": "🧀",
+          "category": "momos",
+          "unit": "plate (6 pcs)",
+          "badge": "Popular",
+          "qty": 1,
+          "total": 80
+        },
+        {
+          "id": "e1",
+          "name": "Extra Spicy Chutney & Mayo",
+          "price": 10,
+          "icon": "🫙",
+          "category": "extras",
+          "unit": "double dip",
+          "badge": "Add-on",
+          "qty": 1,
+          "total": 10
+        }
+      ],
+      "itemSummary": "Veg Steamed Momos ×1, Paneer Steamed Momos ×1, Extra Spicy Chutney & Mayo ×1",
+      "subtotal": 150,
+      "discountAmount": 0,
+      "discountPercent": 0,
+      "finalTotal": 150,
+      "type": "upi",
+      "customerPhone": "8347472532",
+      "cashTendered": null,
+      "changeToReturn": 0,
+      "timestamp": "2026-09-17T23:26:44.014Z"
+    },
+    {
+      "id": "ORD-0235",
+      "time": "04:54 am",
+      "items": [
+        {
+          "id": "m4",
+          "name": "Kurkure Momos",
+          "price": 90,
+          "icon": "🔥",
+          "category": "momos",
+          "unit": "plate (6 pcs)",
+          "badge": "Trending",
+          "qty": 1,
+          "total": 90
+        },
+        {
+          "id": "c1",
+          "name": "DU Special Combo (Momos + Drink)",
+          "price": 85,
+          "icon": "🍱",
+          "category": "combos",
+          "unit": "combo deal",
+          "badge": "Save ₹15",
+          "qty": 1,
+          "total": 85
+        }
+      ],
+      "itemSummary": "Kurkure Momos ×1, DU Special Combo (Momos + Drink) ×1",
+      "subtotal": 175,
+      "discountAmount": 9,
+      "discountPercent": 5,
+      "finalTotal": 166,
+      "type": "upi",
+      "customerPhone": "9104131872",
+      "cashTendered": null,
+      "changeToReturn": 0,
+      "timestamp": "2026-09-17T23:24:30.246Z"
+    },
+    {
+      "id": "ORD-3891",
+      "time": "04:53 am",
+      "items": [
+        {
+          "id": "c1",
+          "name": "DU Special Combo (Momos + Drink)",
+          "price": 85,
+          "icon": "🍱",
+          "category": "combos",
+          "unit": "combo deal",
+          "badge": "Save ₹15",
+          "qty": 1,
+          "total": 85
+        }
+      ],
+      "itemSummary": "DU Special Combo (Momos + Drink) ×1",
+      "subtotal": 85,
+      "discountAmount": 9,
+      "discountPercent": 10,
+      "finalTotal": 76,
+      "type": "cash",
+      "customerPhone": "",
+      "cashTendered": 100,
+      "changeToReturn": 24,
+      "timestamp": "2026-09-17T23:23:33.905Z"
+    },
+    {
+      "id": "ORD-9551",
+      "time": "04:16 am",
+      "items": [
+        {
+          "id": "m1",
+          "name": "Veg Steamed Momos",
+          "price": 60,
+          "icon": "🥟",
+          "category": "momos",
+          "unit": "plate (6 pcs)",
+          "badge": "Bestseller",
+          "qty": 1,
+          "total": 60
+        },
+        {
+          "id": "m2",
+          "name": "Paneer Steamed Momos",
+          "price": 80,
+          "icon": "🧀",
+          "category": "momos",
+          "unit": "plate (6 pcs)",
+          "badge": "Popular",
+          "qty": 1,
+          "total": 80
+        }
+      ],
+      "itemSummary": "Veg Steamed Momos ×1, Paneer Steamed Momos ×1",
+      "subtotal": 140,
+      "discountAmount": 7,
+      "discountPercent": 5,
+      "finalTotal": 133,
+      "type": "upi",
+      "customerPhone": "",
+      "cashTendered": null,
+      "changeToReturn": 0,
+      "timestamp": "2026-09-17T22:46:49.568Z"
+    },
+    {
+      "items": [
+        {
+          "name": "Momos",
+          "price": 60,
+          "qty": 2,
+          "category": "momos",
+          "total": 120
+        }
+      ],
+      "subtotal": 120,
+      "finalTotal": 120,
+      "type": "cash",
+      "time": "22:40",
+      "id": "ORD-mu63ap6v",
+      "timestamp": "2026-09-17T22:16:55.303Z"
+    },
+    {
+      "items": [
+        {
+          "name": "Momos",
+          "price": 60,
+          "qty": 3,
+          "category": "momos",
+          "total": 180
+        }
+      ],
+      "subtotal": 180,
+      "finalTotal": 180,
+      "type": "upi",
+      "time": "22:30",
+      "id": "ORD-mu636hrs",
+      "timestamp": "2026-09-17T22:13:39.064Z"
+    },
+    {
+      "items": [
+        {
+          "name": "Momos",
+          "price": 60,
+          "qty": 3,
+          "category": "momos",
+          "total": 180
+        }
+      ],
+      "subtotal": 180,
+      "finalTotal": 180,
+      "type": "upi",
+      "time": "22:30",
+      "id": "ORD-mu636630",
+      "timestamp": "2026-09-17T22:13:23.916Z"
+    },
+    {
+      "items": [
+        {
+          "name": "Tea",
+          "price": 15,
+          "qty": 5,
+          "category": "drinks",
+          "total": 75
+        },
+        {
+          "name": "Cold Drink",
+          "price": 30,
+          "qty": 2,
+          "category": "drinks",
+          "total": 60
+        }
+      ],
+      "subtotal": 135,
+      "discountAmount": 0,
+      "discountPercent": 0,
+      "finalTotal": 135,
+      "type": "upi",
+      "customerPhone": "8888888888",
+      "time": "21:00",
+      "id": "ORD-mu633nop",
+      "timestamp": "2026-09-17T22:11:26.761Z"
+    },
+    {
+      "items": [
+        {
+          "name": "Veg Steamed Momos",
+          "price": 60,
+          "qty": 4,
+          "category": "momos",
+          "icon": "🥟",
+          "total": 240
+        },
+        {
+          "name": "Cold Drink",
+          "price": 30,
+          "qty": 3,
+          "category": "drinks",
+          "icon": "🥤",
+          "total": 90
+        }
+      ],
+      "subtotal": 330,
+      "discountAmount": 0,
+      "discountPercent": 0,
+      "finalTotal": 330,
+      "type": "upi",
+      "customerPhone": "9999999999",
+      "time": "20:00",
+      "id": "ORD-mu629y2f",
+      "timestamp": "2026-09-17T21:48:20.535Z"
+    },
+    {
+      "items": [
+        {
+          "name": "Kurkure Momos",
+          "price": 90,
+          "qty": 3,
+          "category": "momos",
+          "icon": "🔥",
+          "total": 270
+        },
+        {
+          "name": "Cold Drink",
+          "price": 30,
+          "qty": 2,
+          "category": "drinks",
+          "icon": "🥤",
+          "total": 60
+        },
+        {
+          "name": "Extra Spicy Chutney & Mayo",
+          "price": 10,
+          "qty": 1,
+          "category": "extras",
+          "icon": "🫙",
+          "total": 10
+        }
+      ],
+      "subtotal": 340,
+      "discountAmount": 34,
+      "discountPercent": 10,
+      "finalTotal": 306,
+      "type": "upi",
+      "customerPhone": "9876543211",
+      "time": "18:05",
+      "id": "ORD-mu4ep3kb",
+      "timestamp": "2026-09-16T18:00:30.539Z"
+    },
+    {
+      "items": [
+        {
+          "name": "Veg Steamed Momos",
+          "price": 60,
+          "qty": 2,
+          "category": "momos",
+          "icon": "🥟",
+          "total": 120
+        },
+        {
+          "name": "Masala Chai",
+          "price": 15,
+          "qty": 2,
+          "category": "drinks",
+          "icon": "☕",
+          "total": 30
+        }
+      ],
+      "subtotal": 150,
+      "discountAmount": 0,
+      "discountPercent": 0,
+      "finalTotal": 150,
+      "type": "cash",
+      "customerPhone": "9876543210",
+      "time": "14:30",
+      "id": "ORD-mu4eohmi",
+      "timestamp": "2026-09-16T18:00:02.106Z"
+    }
+  ],
+  "inventorySnapshots": [],
+  "expenses": {
+    "rawMaterials": 1489,
+    "gasFuel": 264,
+    "transport": 220,
+    "other": 220
+  }
+}
